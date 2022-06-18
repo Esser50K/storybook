@@ -130,7 +130,7 @@ For additional help, join us in the [Storybook Discord](https://discord.gg/story
 | [storyshots](addons/storyshots/)                                          | Snapshot testing for components in Storybook                               |
 | [storysource](addons/storysource/)                                        | View the code of your stories within the Storybook UI                      |
 | [viewport](addons/viewport/)                                              | Change display sizes and layouts for responsive components using Storybook |
-| [outline](addons/outline/)                                                | Visuallly debug the CSS layout and alignment within the Storybook UI       |
+| [outline](addons/outline/)                                                | Visually debug the CSS layout and alignment within the Storybook UI       |
 | [measure](addons/measure/)                                                | Visually inspect the layout and box model within the Storybook UI          |
 
 See [Addon / Framework Support Table](https://storybook.js.org/docs/react/api/frameworks-feature-support)
@@ -280,3 +280,4 @@ Support us with a monthly donation and help us continue our activities. \[[Becom
 [MIT](https://github.com/storybookjs/storybook/blob/main/LICENSE)
 
 -the end-
+
